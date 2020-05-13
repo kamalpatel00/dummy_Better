@@ -1,0 +1,242 @@
+.header {
+  height: 66px;
+  background-color: #44ddff;
+}
+
+.menu-ul {
+  list-style-type: none;
+  float: right;
+  margin: 4px 5% 0 0;
+}
+
+.menu-ul li {
+  display: inline-block;
+  margin-left: 50px;
+  padding-left: 10px;
+}
+
+.con {
+  width: 124px;
+  height: 32px;
+  border-radius: 4px;
+  margin-top: 10px;
+  border: solid 1px #141516;
+  text-decoration: inherit;
+}
+
+.paddingLeft {
+  padding-left: 100px;
+}
+
+.headerLogo {
+  width: 158px;
+  height: 37px;
+  object-fit: contain;
+  margin-left: 59px;
+  margin-top: 15px;
+  margin-bottom: 14px;
+}
+
+.phonenumber {
+  width: 75px;
+  height: 10px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 11px;
+  margin-left: 10px;
+}
+
+.Check-credit-score {
+  width: 334px;
+  /*height: 98px;*/
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  padding-top: 111px;
+}
+.CreditScoreText {
+  width: 63px;
+  height: 10px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #0000;
+}
+
+.Personal-loans {
+  width: 293px;
+  /*height: 40px;*/
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000000;
+  padding-top: 26px;
+}
+
+.misscall {
+  width: 18px;
+  height: 17px;
+  /*background-color: #141516;*/
+}
+
+.Bitmap {
+  /*width: 477px;*/
+  height: 506px;
+  /*margin-left: 109px;*/
+  margin-right: 32px;
+  margin-top: 17px;
+  padding-left: 146px;
+}
+
+.firstContainer {
+  height: 496px;
+  background-color: #44ddff;
+}
+
+.secondContainer {
+  height: 193px;
+  background-color: #ffd5a6;
+}
+
+.gPlayBtn {
+  width: 177px;
+  height: 60px;
+  border-radius: 6px;
+  background-color: #000000;
+  margin-top: 40px;
+}
+
+.secondContainerText {
+  width: 59px;
+  height: 40px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000000;
+  padding-top: 104px;
+}
+
+.thirdContainer {
+  /*width: 512px;*/
+  height: 675px;
+  background-color: #ffffff;
+}
+
+.thirdContainerCredit {
+  /*width: 220px;*/
+  height: 44px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+
+  padding-left: 100px;
+  padding-top: 123px;
+  padding-right: 192px;
+}
+
+.Credit-description {
+  width: 266px;
+  height: 100px;
+  padding-left: 100px;
+  padding-top: 84px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #666666;
+}
+
+.scoreBackground {
+  /*width: 512px;*/
+  height: 675px;
+  background-color: #15ee9b;
+  padding-left: 146px;
+  /*margin-left: 101px;*/
+}
+
+.scoreImage {
+  width: 240px;
+  height: 123px;
+  margin-top: 163px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.Full-of-benefits {
+  width: 122px;
+  height: 19px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  padding-left: 100px;
+  padding-top: 80px;
+}
+
+.benefitsCardBox {
+  width: 258px;
+  height: 190px;
+  border-radius: 7.9px;
+  box-shadow: 0 2px 3px 0 rgba(20, 21, 22, 0.1);
+  background-color: #faf8f4;
+}
+
+.benefitsCard {
+  width: 198px;
+  height: 60px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #666666;
+}
+
+.whyPeople {
+  /*width: 1024px;*/
+  height: 581px;
+  background-color: #faf8f4;
+}
+
+.whatWeBringContainer {
+  height: 193px;
+  background-color: #ffd5a6;
+}

@@ -1,0 +1,86 @@
+.div1 {
+  margin-left: 16%;
+  width: 1024px;
+  height: 581px;
+  background-color: #faf8f4;
+  position: relative;
+}
+.row1 {
+  margin-right: 110px;
+  margin-top: 78px;
+  margin-bottom: 185px;
+  position: relative;
+}
+.whyPeople {
+  position: relative;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 100px;
+  width: 297px;
+  height: 88px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.imgLogo {
+  position: relative;
+  margin-right: 30px;
+  margin-left: 102px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50px;
+  float: left;
+}
+.name {
+  position: relative;
+  float: left;
+}
+.place {
+  position: relative;
+  float: left;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #666666;
+}
+.feedback {
+  position: relative;
+  margin-left: 102px;
+  margin-top: 50px;
+  width: 220px;
+  height: 80px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #666666;
+}
+.arrowButton {
+  margin-top: 50px;
+  margin-left: 461px;
+}
+.arrowRight {
+  width: 36px;
+  height: 36px;
+  border-radius: 17.8px;
+  background-color: #f4f1eb;
+  margin-left: 10px;
+}
+.arrowLeft {
+  width: 36px;
+  height: 36px;
+  border-radius: 17.8px;
+  background-color: #f4f1eb;
+}
